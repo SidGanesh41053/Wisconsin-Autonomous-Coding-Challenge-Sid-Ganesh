@@ -44,3 +44,6 @@ I did end up using ChatGPT to write my line of best fit function after I separat
 
 This was the result.
 In the end, I used OpenCV and NumPy.
+
+## Drawbacks of My Code
+I believe that the main drawback of my code is that it is not generalized for any and every image that contains cones. This is because my work on this challenge was somewhat rushed. This code will really only work for the red.png input image given to us (though, it contains everything I believe is necessary to develop a successful general algorithm). However, it is definitely something to work on in the future, as it's generally accepted practice to have your code run anywhere.
