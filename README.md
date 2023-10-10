@@ -43,3 +43,4 @@ I did end up using ChatGPT to write my line of best fit function after I separat
 <img src=https://github.com/SidGanesh41053/Wisconsin-Autonomous-Coding-Challenge-Sid-Ganesh/assets/131557045/0c92f72a-13a8-4c6c-8952-a13f57af4af1 width="300" height="400">
 
 This was the result.
+In the end, I used OpenCV and NumPy.
