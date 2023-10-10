@@ -21,6 +21,7 @@ However, when I created my array of coordinate tuples within the range of the RG
 This narrowed down the number of coordinates to 3548.
 
 When I plotted these points onto the image so that they would be on top of the cones, this is the image that was produced:
+
 <img src="https://github.com/SidGanesh41053/Wisconsin-Autonomous-Coding-Challenge-Sid-Ganesh/assets/131557045/da486512-809c-4476-9fec-e1f69c933144" width="300" height="400">
 
 I realized at this point that I would have to resort to clustering these points together so that I could draw my line, but this is a machine learning method I am unfamiliar with, so with the interest of completing the challenge in mind, I put off learning about the technique and decided to switch gears and use a different CV approach: shape detection and contours.
