@@ -36,6 +36,7 @@ I figured that if I could identify each of the cones as triangles, I could calcu
   - https://learnopencv.com/tag/cv2-moments/
 
 This approach proved to be a lot more efficient. Once I had all of the centroids of the cones (used the help of ChatGPT to write this section of the code), I tried drawing lines connecting all the points, but didn't realize that it would end up doing this:
+
 <img src=https://github.com/SidGanesh41053/Wisconsin-Autonomous-Coding-Challenge-Sid-Ganesh/assets/131557045/81865ff5-93d4-4e4b-888e-4ca6ca5de272 width="300" height="400">
 
 
